@@ -1,0 +1,309 @@
+{"question": "which of these define dairy item", "options": ["c", "D", "b", "a"], "answer": "1", "image_path": "images/ai2d/0.jpeg"}
+{"question": "which of these define oil", "options": ["b", "a", "d", "k"], "answer": "3", "image_path": "images/ai2d/1.jpeg"}
+{"question": "According to the given food chain what would happen if phytoplankton decreases?", "options": ["Seal population will become extinct", "Fish population would decrease.", "Whale population would decrease.", "Penguin population would increase."], "answer": "1", "image_path": "images/ai2d/2.jpeg"}
+{"question": "According to the given food chain, which is the smallest organism?", "options": ["krill", "whale", "Phytoplankton", "leopard"], "answer": "2", "image_path": "images/ai2d/3.jpeg"}
+{"question": "Based on the given diagram answer the following question. What would happen to the elephant seal population if there were no whales?", "options": ["Increase", "None of these", "Neither increase nor decrease", "Decrease"], "answer": "0", "image_path": "images/ai2d/4.jpeg"}
+{"question": "Based on the given diagram, the penguin is a", "options": ["Decomposer", "Predator", "Herbivore", "Plant"], "answer": "1", "image_path": "images/ai2d/5.jpeg"}
+{"question": "The diagram below shows a food chain. If the smaller toothed whales ate all the leopard seals, the population of krills would most likely.", "options": ["remain the same", "decrease", "increase", "NA"], "answer": "2", "image_path": "images/ai2d/6.jpeg"}
+{"question": "What could happen that would increase the number of krill?", "options": ["increase in phytoplankton", "decrease in penguins", "increase in fish", "increase in birds"], "answer": "0", "image_path": "images/ai2d/7.jpeg"}
+{"question": "What event will probably cause the elephant seal population to increase?", "options": ["an increase in whales", "a decrease in penguins", "a decrease in birds", "an increase in fish"], "answer": "3", "image_path": "images/ai2d/8.jpeg"}
+{"question": "Which animal is at the top of this food chain?", "options": ["leopard seal", "baleen whale", "smaller toothed whales", "penguins"], "answer": "2", "image_path": "images/ai2d/9.jpeg"}
+{"question": "Which would be most directly affected if all the baleen whales were removed?", "options": ["phytoplankton", "smaller toothed whales", "penguins", "birds"], "answer": "1", "image_path": "images/ai2d/10.jpeg"}
+{"question": "In the diagram which letter shows the Adulte?", "options": ["C", "A", "D", "B"], "answer": "0", "image_path": "images/ai2d/11.jpeg"}
+{"question": "What stage in the diagram corresponds to letter D?", "options": ["oeuf", "pupae", "chrysalide", "chenille"], "answer": "2", "image_path": "images/ai2d/12.jpeg"}
+{"question": "Larvae turn into what form?", "options": ["Ovums", "Exoskeletons", "Eggs", "Adults"], "answer": "3", "image_path": "images/ai2d/13.jpeg"}
+{"question": "This diagram shows the life cycle of an insect. What is the order of the insect's life stages, from youngest to oldest?", "options": ["B-A-C", "C-A-B", "A-B-C", "B-C-A"], "answer": "2", "image_path": "images/ai2d/14.jpeg"}
+{"question": "Which stage is egg here ?", "options": ["C", "B", "D", "A"], "answer": "3", "image_path": "images/ai2d/15.jpeg"}
+{"question": "which stage is adult here ?", "options": ["D", "B", "C", "A"], "answer": "2", "image_path": "images/ai2d/16.jpeg"}
+{"question": "What is the expanded part of a leaf or petal?", "options": ["blade", "cordate", "none of the above", "petiole"], "answer": "0", "image_path": "images/ai2d/17.jpeg"}
+{"question": "What is the region that represents the centriole?", "options": ["k", "b", "a", "d"], "answer": "0", "image_path": "images/ai2d/18.jpeg"}
+{"question": "What is the region that represents the vacuole?", "options": ["d", "c", "a", "f"], "answer": "3", "image_path": "images/ai2d/19.jpeg"}
+{"question": "Where the double-layered membrane enclosing the nucleus of a cell is known as?", "options": ["Cytoplasm", "Nuclear membrane", "Mitochondria", "Vacuole"], "answer": "1", "image_path": "images/ai2d/20.jpeg"}
+{"question": "What does the bird feed on/", "options": ["zooplankton", "grass", "predator fish", "none of the above"], "answer": "2", "image_path": "images/ai2d/21.jpeg"}
+{"question": "What does the carnivore fish feed on?", "options": ["grass", "herbivore fish", "plankton", "none of the above"], "answer": "1", "image_path": "images/ai2d/22.jpeg"}
+{"question": "What is at the highest of the food chain in this diagram?", "options": ["shrimp", "hawk", "small fish", "big fish"], "answer": "1", "image_path": "images/ai2d/23.jpeg"}
+{"question": "What is at the lowest of the food chain in this diagram?", "options": ["shrimp", "big fish", "hawk", "small fish"], "answer": "0", "image_path": "images/ai2d/24.jpeg"}
+{"question": "Which of the following correctly characterizes energy flow in the diagram?", "options": ["Fish to bird", "Bird to krill", "Fish to krill", "None of these"], "answer": "0", "image_path": "images/ai2d/25.jpeg"}
+{"question": "Which organism sits at the bottom of the food chain seen above?", "options": ["Bird", "None of these", "Fish", "Krill"], "answer": "3", "image_path": "images/ai2d/26.jpeg"}
+{"question": "What is a producer?", "options": ["B", "A", "C", "D"], "answer": "1", "image_path": "images/ai2d/27.jpeg"}
+{"question": "What is at the top of the food web?", "options": ["d", "b", "c", "a"], "answer": "0", "image_path": "images/ai2d/28.jpeg"}
+{"question": "What is energy", "options": ["sun", "C", "B", "A"], "answer": "0", "image_path": "images/ai2d/29.jpeg"}
+{"question": "What would be directly affected if organism A was extinct?", "options": ["none", "B", "D", "C"], "answer": "1", "image_path": "images/ai2d/30.jpeg"}
+{"question": "What would happen if oragnism D disappeared?", "options": ["everything would stay the same", "B would decrease", "C would increase", "you can't predict"], "answer": "2", "image_path": "images/ai2d/31.jpeg"}
+{"question": "What would happen if organism A disappeared?", "options": ["you can't predict it", "c would increase", "d would be extinct", "b would decrease"], "answer": "3", "image_path": "images/ai2d/32.jpeg"}
+{"question": "What would happen to organism A if organism B increased?", "options": ["decrease", "increase", "can't predict", "stay the same"], "answer": "0", "image_path": "images/ai2d/33.jpeg"}
+{"question": "What would happen to organism c if organism b increased?", "options": ["decrease", "increase", "can't predict", "stay same"], "answer": "1", "image_path": "images/ai2d/34.jpeg"}
+{"question": "How many stages are in this cycle?", "options": ["2", "4", "5", "3"], "answer": "1", "image_path": "images/ai2d/35.jpeg"}
+{"question": "How many stages are shown in the diagram?", "options": ["none of the above", "5", "4", "6"], "answer": "2", "image_path": "images/ai2d/36.jpeg"}
+{"question": "Mealworms are the larva of various beetles of the genus Tenebrio. Which stage represents the mealworm?", "options": ["D", "B", "C", "A"], "answer": "1", "image_path": "images/ai2d/37.jpeg"}
+{"question": "What is the stage after egg?", "options": ["adult", "pupa", "mealworm", "none of the above"], "answer": "2", "image_path": "images/ai2d/38.jpeg"}
+{"question": "What stage comes after egg?", "options": ["beetle", "caterpillar", "pupa", "mealworm"], "answer": "3", "image_path": "images/ai2d/39.jpeg"}
+{"question": "During which step is the egg  released from the egg mass?", "options": ["C", "D", "A", "E"], "answer": "2", "image_path": "images/ai2d/40.jpeg"}
+{"question": "In the diagram it show the growth of a frog, does stage C show?", "options": ["tadpole with head", "Tadpoles with legs", "mouth", "Young frog"], "answer": "1", "image_path": "images/ai2d/41.jpeg"}
+{"question": "The diagram depicts the life cycle of:", "options": ["Frog", "Pestisides", "Insecticides", "Insects"], "answer": "0", "image_path": "images/ai2d/42.jpeg"}
+{"question": "What is shown by stage E?", "options": ["egg mass", "larva", "tadpole", "adult frog"], "answer": "0", "image_path": "images/ai2d/43.jpeg"}
+{"question": "Which stage is next to the Egg Mass?", "options": ["Young Frog", "Tadpole", "Adult Frog", "Frog"], "answer": "1", "image_path": "images/ai2d/44.jpeg"}
+{"question": "How many stages are in the development of a mosquito?", "options": ["2", "4", "1", "0"], "answer": "1", "image_path": "images/ai2d/45.jpeg"}
+{"question": "What stage is represents the egg?", "options": ["D", "C", "A", "B"], "answer": "0", "image_path": "images/ai2d/46.jpeg"}
+{"question": "How many quarters see the half moon?", "options": ["3", "1", "2", "4"], "answer": "2", "image_path": "images/ai2d/47.jpeg"}
+{"question": "What is the new moon in the diagram?", "options": ["A", "none of the above", "C", "B"], "answer": "3", "image_path": "images/ai2d/48.jpeg"}
+{"question": "Which letter shows the lunar phase that occurs when the Moon is completely illuminated as seen from the Earth?", "options": ["D", "A", "B", "E"], "answer": "3", "image_path": "images/ai2d/49.jpeg"}
+{"question": "Which phase describes the point at which the moon appears nearly invisible in the sky?", "options": ["third quarter half moon", "new moon", "full moon", "first quarter half moon"], "answer": "1", "image_path": "images/ai2d/50.jpeg"}
+{"question": "In the life cycle of the butterfly, what stage comes with after larva?", "options": ["pupa", "death", "adult", "egg"], "answer": "0", "image_path": "images/ai2d/51.jpeg"}
+{"question": "In the life cycle shown to us, what stage comes after pupa?", "options": ["death", "egg", "larva", "adult"], "answer": "3", "image_path": "images/ai2d/52.jpeg"}
+{"question": "What comes before pupa according to the diagram?", "options": ["none of the above", "adult", "eggs", "larva"], "answer": "3", "image_path": "images/ai2d/53.jpeg"}
+{"question": "What stage is shown in C in the diagram?", "options": ["none of the above", "pupa", "larva", "egg"], "answer": "1", "image_path": "images/ai2d/54.jpeg"}
+{"question": "Which label refers to the adult stage?", "options": ["D", "E", "B", "C"], "answer": "0", "image_path": "images/ai2d/55.jpeg"}
+{"question": "Which label refers to the larva stage?", "options": ["D", "B", "C", "E"], "answer": "1", "image_path": "images/ai2d/56.jpeg"}
+{"question": "WHAT IS A LABEL A REPRESENT  IN THE ABOVE DIAGRAM?", "options": ["TOTAL", "FULL", "ANNULAR", "PARTIAL"], "answer": "0", "image_path": "images/ai2d/57.jpeg"}
+{"question": "According to the food web, what is the source of energy for the squirrel?", "options": ["grass", "black bear", "caribou", "bob cat"], "answer": "0", "image_path": "images/ai2d/58.jpeg"}
+{"question": "According to the food web, what will happen if the grass dried up due to extreme heat?", "options": ["Black bears would increase", "Squirrel population would increase", "Squirrel population would decrease", "none of the above"], "answer": "2", "image_path": "images/ai2d/59.jpeg"}
+{"question": "Base your answers on the diagram below and on your knowledge of science. Which are the organisms are herbivores?", "options": ["squirrel, bobcat, blackbear", "caribou, moose, bobcat", "squirrel, caribou, moose", "caribou, moose, blackbear"], "answer": "2", "image_path": "images/ai2d/60.jpeg"}
+{"question": "From the above food web diagram, if all the grass dies then population of squirrel will", "options": ["decrease", "remains the same", "increase", "NA"], "answer": "0", "image_path": "images/ai2d/61.jpeg"}
+{"question": "From the above food web diagram, what will cause moose to increase", "options": ["decrease in evergreen", "decrease in bobcar", "increase in bobcat", "increase in evergreen"], "answer": "3", "image_path": "images/ai2d/62.jpeg"}
+{"question": "From the above food web diagram, which species provide energy", "options": ["caribou", "moose", "grass", "squirrel"], "answer": "2", "image_path": "images/ai2d/63.jpeg"}
+{"question": "In the given food web, which organism consume higher number of prey?", "options": ["bobcat", "blackbear", "graywolf", "caribou"], "answer": "1", "image_path": "images/ai2d/64.jpeg"}
+{"question": "In the given food web, which organism have no predator?", "options": ["blackbear", "caribou", "squirrel", "moose"], "answer": "0", "image_path": "images/ai2d/65.jpeg"}
+{"question": "In the given terrestrial food web, which organisms are known as primary source of energy?", "options": ["evergreen, black spruce&moose", "grass, evergreen&black spruce", "black spruce, moose&grass", "grass, evergreen&squirrel"], "answer": "1", "image_path": "images/ai2d/66.jpeg"}
+{"question": "What is a primary consumer?", "options": ["black bear", "bobcat", "hawk owl", "caribou"], "answer": "3", "image_path": "images/ai2d/67.jpeg"}
+{"question": "What is at the top of the food chain?", "options": ["caribous", "black bear", "evergreen", "grass"], "answer": "1", "image_path": "images/ai2d/68.jpeg"}
+{"question": "From the above food chain diagram, increase in number of sheep leads to", "options": ["decrease in wolf", "increase in wolf", "increase in deer", "decrease in owl"], "answer": "1", "image_path": "images/ai2d/69.jpeg"}
+{"question": "From the above food chain diagram, which species is secondary consumer", "options": ["deer", "wolf", "owl", "sheep"], "answer": "1", "image_path": "images/ai2d/70.jpeg"}
+{"question": "From the above food web diagram, which species increase if all the owl dies", "options": ["deer", "sheep", "rat", "cricket"], "answer": "2", "image_path": "images/ai2d/71.jpeg"}
+{"question": "From the above food web diagram, which species is the tertiary consumer", "options": ["sheep", "cricket", "owl", "deer"], "answer": "2", "image_path": "images/ai2d/72.jpeg"}
+{"question": "What grass a primary food source for?", "options": ["rat", "wolf", "sheep", "owl"], "answer": "2", "image_path": "images/ai2d/73.jpeg"}
+{"question": "What would be most impacted if all the owls disappeared?", "options": ["deer", "rats", "grass", "sheep"], "answer": "1", "image_path": "images/ai2d/74.jpeg"}
+{"question": "What would happen if the deer population increased?", "options": ["grass would decrease", "owl would increase", "wolf would decrease", "grass would increase"], "answer": "0", "image_path": "images/ai2d/75.jpeg"}
+{"question": "What would happen if there was a sudden decrease in grass?", "options": ["sheep would thrive", "you can't predict it", "crickets would die", "owls would be extinct"], "answer": "2", "image_path": "images/ai2d/76.jpeg"}
+{"question": "What would happen if there were less crickets?", "options": ["the rats would die", "there would be less deer", "there would be less wolves", "there would be less grass"], "answer": "0", "image_path": "images/ai2d/77.jpeg"}
+{"question": "Which is a carnivore?", "options": ["sheep", "owl", "grass", "cricket"], "answer": "1", "image_path": "images/ai2d/78.jpeg"}
+{"question": "Which is the end result of the process of growth?", "options": ["E", "C", "J", "F"], "answer": "0", "image_path": "images/ai2d/79.jpeg"}
+{"question": "Which label shows the first stage of the life cycle?", "options": ["J", "C", "E", "F"], "answer": "0", "image_path": "images/ai2d/80.jpeg"}
+{"question": "What organism does this diagram portray?", "options": ["A ladybug", "A wolf", "A human", "A plant"], "answer": "3", "image_path": "images/ai2d/81.jpeg"}
+{"question": "What process does this diagram portray?", "options": ["Life Cycle of a Plant", "Water Cycle", "Rock Cycle", "Erosion"], "answer": "0", "image_path": "images/ai2d/82.jpeg"}
+{"question": "What label is represented by B ?", "options": ["Legs", "Compound eye", "Mouthparts", "Antennae"], "answer": "2", "image_path": "images/ai2d/83.jpeg"}
+{"question": "Why is A necessary for living of a insect ?", "options": ["A is used as a locomotion part by the insect", "A is used to fly", "A is used to see whats around it.", "A is used to feed itself."], "answer": "2", "image_path": "images/ai2d/84.jpeg"}
+{"question": "What does the letter C represent?", "options": ["Granite Intrusions", "Granite-Gneiss", "Mafic Volcanics", "Ultramafic Volcanics"], "answer": "2", "image_path": "images/ai2d/85.jpeg"}
+{"question": "Which of the following is not a Gneiss, Intrusion or Volcanics?", "options": ["Sedimentary Rocks", "Ultramafic Volcanics", "Granite-Gneiss", "Mafic Volcanics"], "answer": "0", "image_path": "images/ai2d/86.jpeg"}
+{"question": "What does stage B depict?", "options": ["growing tadpole", "egg", "tadpole larva", "adult"], "answer": "2", "image_path": "images/ai2d/87.jpeg"}
+{"question": "What is the result of a hatching egg?", "options": ["baby frog", "adult frog", "growing tadpole", "tadpole (larva)"], "answer": "3", "image_path": "images/ai2d/88.jpeg"}
+{"question": "What label shows the adult phase of the frog?", "options": ["B", "H", "F", "D"], "answer": "1", "image_path": "images/ai2d/89.jpeg"}
+{"question": "What stage of the life cycle of a frog is shown at letter D?", "options": ["growing tadpole", "tadpole larva", "egg", "adult"], "answer": "0", "image_path": "images/ai2d/90.jpeg"}
+{"question": "Which layer surrounds the mantle?", "options": ["D", "C", "A", "B"], "answer": "0", "image_path": "images/ai2d/91.jpeg"}
+{"question": "What is represented by letter A?", "options": ["Eggs", "Tadpole", "Mature Frog", "Young Frog"], "answer": "0", "image_path": "images/ai2d/92.jpeg"}
+{"question": "Which letter represents the mature frog?", "options": ["A", "F", "B", "D"], "answer": "1", "image_path": "images/ai2d/93.jpeg"}
+{"question": "Iris is an example of what?", "options": ["true bulbs", "rhizomes", "tubuerous roots", "tubers"], "answer": "1", "image_path": "images/ai2d/94.jpeg"}
+{"question": "Which label represents corms?", "options": ["K", "C", "D", "I"], "answer": "0", "image_path": "images/ai2d/95.jpeg"}
+{"question": "Which of the following are examples of corms?", "options": ["potato, caladium", "iris, canna", "crocus, gladiolus", "sweet potato, dahlia"], "answer": "2", "image_path": "images/ai2d/96.jpeg"}
+{"question": "Base your answers on the food web below and on your knowledge of biology. Which organisms are carnivores?", "options": ["Zooplankton", "Piscivorous", "Bacteria", "None of above"], "answer": "1", "image_path": "images/ai2d/97.jpeg"}
+{"question": "If plankticorous fish are removed from the food chain shown in the diagram, which organisms are likely to face starvation?", "options": ["Protozoa", "Phytoplankton", "Piscivorous fish", "Zooplankton"], "answer": "2", "image_path": "images/ai2d/98.jpeg"}
+{"question": "In the diagram of the food web shown, what does the piscivorous fish consume?", "options": ["planktivorous fish", "bacteria", "phytoplankton", "protozoa"], "answer": "0", "image_path": "images/ai2d/99.jpeg"}
+{"question": "In the diagram shown, which organism consumes the phytoplankton?", "options": ["bacteria", "zooplankton", "planktivorous fish", "protozoa"], "answer": "1", "image_path": "images/ai2d/100.jpeg"}
+{"question": "Part of the forest ecosystem is shown. Phytoplanktons is a", "options": ["Producer", "Primary Consumer", "Secondary Consumer", "Tertiary Consumer"], "answer": "0", "image_path": "images/ai2d/101.jpeg"}
+{"question": "Part of the forest ecosystem is shown. Zooplanktons feeds on?", "options": ["Piscivorous Fish", "Phytoplanktons", "Planktivorous Fish", "None of the above"], "answer": "1", "image_path": "images/ai2d/102.jpeg"}
+{"question": "What is at the top of this food chain?", "options": ["planktovorous fish", "zooplankton", "piscivorous fish", "phytoplankton"], "answer": "2", "image_path": "images/ai2d/103.jpeg"}
+{"question": "Which of these is the highest in the food chain in this diagram?", "options": ["phytoplankton", "piscivorous fish", "planktivorous fish", "zooplankton"], "answer": "1", "image_path": "images/ai2d/104.jpeg"}
+{"question": "Which of these is the lowest in the food chain in this diagram?", "options": ["zooplankton", "phytoplankton", "piscivorous fish", "planktivorous fish"], "answer": "1", "image_path": "images/ai2d/105.jpeg"}
+{"question": "According to the given food web, what are the consequences if all the fruits are plucked by humans?", "options": ["Bald eagle will become extinct.", "Bamboo will dry up.", "Acorns will suffer from loss of energy.", "Dormouse will increase"], "answer": "2", "image_path": "images/ai2d/106.jpeg"}
+{"question": "According to the given food web, what is the main source of energy?", "options": ["sun", "bold eagle", "black bear", "dormouse"], "answer": "0", "image_path": "images/ai2d/107.jpeg"}
+{"question": "Base your answers on the food web below and on your knowledge of biology. Which is white tailed deer?", "options": ["Tertiary consumers", "Carnivores", "Producer", "Herbivores"], "answer": "3", "image_path": "images/ai2d/108.jpeg"}
+{"question": "Based on the food web diagram given here, white tailed deer can be categorized under which group?", "options": ["Secondary consumer", "Omnivores", "Carnivores", "Herbivores"], "answer": "3", "image_path": "images/ai2d/109.jpeg"}
+{"question": "In the diagram of the food web shown, berries are a food source for which of these?", "options": ["dormouse", "bald eagle", "acorn", "red panda"], "answer": "3", "image_path": "images/ai2d/110.jpeg"}
+{"question": "In the diagram of the food web shown, the bald eagle gets its energy from?", "options": ["fruit", "eastern chipmunk", "red panda", "acorn"], "answer": "1", "image_path": "images/ai2d/111.jpeg"}
+{"question": "In the diagram of the food web shown, what do fruit get its energy source from?", "options": ["red panda", "sun", "acorn", "bamboo"], "answer": "1", "image_path": "images/ai2d/112.jpeg"}
+{"question": "In the diagram of the food web shown, what does does the red panda eat?", "options": ["eastern chipmunk", "bamboo", "acorn", "fruit"], "answer": "1", "image_path": "images/ai2d/113.jpeg"}
+{"question": "In the diagram, which organism supplies the energy for the food web shown?", "options": ["Bamboo", "Fruit", "Sun", "Berries"], "answer": "2", "image_path": "images/ai2d/114.jpeg"}
+{"question": "In this food web diagram, Bamboo can be considered as a", "options": ["Producer", "secondary consumer", "decomposer", "Primary consumer"], "answer": "0", "image_path": "images/ai2d/115.jpeg"}
+{"question": "Which of the following is not a producer organism in the diagram below?", "options": ["Fruit", "Bamboo", "Bald eagle", "Berries"], "answer": "2", "image_path": "images/ai2d/116.jpeg"}
+{"question": "A food web is represented in the diagram . Which organisms are correctly paired with their roles in this food web?", "options": ["whales-heterotrophs; fish-producers", "humans-consumer ; shellfish -producers", "harmful algae -producer; fish-consumer", "Birds-producers ; shell fish -consumer"], "answer": "2", "image_path": "images/ai2d/117.jpeg"}
+{"question": "According to the given food chain, which organisms are primary consumers of shell fish?", "options": ["dolphins", "whales", "humans and birds", "fishes"], "answer": "2", "image_path": "images/ai2d/118.jpeg"}
+{"question": "According to the given food chain, which organisms would be affected if there were no shellfish?", "options": ["humans and birds", "dolphins", "fishes", "none of the above"], "answer": "0", "image_path": "images/ai2d/119.jpeg"}
+{"question": "Based on the diagram of a food chain below and on your knowledge of science. The harmful algae in this food chain represents a", "options": ["predator", "producer", "decomposer", "prey"], "answer": "1", "image_path": "images/ai2d/120.jpeg"}
+{"question": "From the Below food chain, which of the community is primary consumers?", "options": ["bat and hawks", "insect", "goat, sheep", "plants"], "answer": "2", "image_path": "images/ai2d/121.jpeg"}
+{"question": "From the above food web diagram, algae is", "options": ["consumer", "producer", "decomposer", "secondary consumer"], "answer": "1", "image_path": "images/ai2d/122.jpeg"}
+{"question": "Which of the following is not predator of fish?", "options": ["Algae", "Birds", "Humans", "Dolphins"], "answer": "0", "image_path": "images/ai2d/123.jpeg"}
+{"question": "Which one is producer of this food web?", "options": ["fish", "shellfish", "algae", "birds"], "answer": "2", "image_path": "images/ai2d/124.jpeg"}
+{"question": "Who is predator of shellfish?", "options": ["algae", "whales", "Birds", "fish"], "answer": "2", "image_path": "images/ai2d/125.jpeg"}
+{"question": "Who is primary predator in this food web?", "options": ["Birds", "Fish", "Humans", "Shellfish"], "answer": "2", "image_path": "images/ai2d/126.jpeg"}
+{"question": "Which group has a notched outline?", "options": ["A", "D", "B", "C"], "answer": "0", "image_path": "images/ai2d/127.jpeg"}
+{"question": "Which of these shows a smooth edged leaf?", "options": ["D", "B", "A", "C"], "answer": "0", "image_path": "images/ai2d/128.jpeg"}
+{"question": "What is the larva of a frog that is limbless, has gills, and a long flat shaped tail?", "options": ["Frog", "Tadpole", "Froglet", "Eggs"], "answer": "1", "image_path": "images/ai2d/129.jpeg"}
+{"question": "Which letter refers to a tadpole?", "options": ["C", "A", "B", "D"], "answer": "3", "image_path": "images/ai2d/130.jpeg"}
+{"question": "Which letter represents the tadpole?", "options": ["A", "D", "C", "B"], "answer": "1", "image_path": "images/ai2d/131.jpeg"}
+{"question": "Which stage is shown at letter B?", "options": ["Frog", "Eggs", "Froglet", "Tadpole"], "answer": "0", "image_path": "images/ai2d/132.jpeg"}
+{"question": "What is B in the diagram?", "options": ["skin", "bone", "horny hoof", "hair"], "answer": "2", "image_path": "images/ai2d/133.jpeg"}
+{"question": "What is E in the diagram?", "options": ["skin", "bone", "horny hoof", "hair"], "answer": "1", "image_path": "images/ai2d/134.jpeg"}
+{"question": "Which organ or part is horny sheath covering the toes or lower part of the foot of a mammal?", "options": ["{}", "{}", "hoof", "bone"], "answer": "2", "image_path": "images/ai2d/135.jpeg"}
+{"question": "Which part is found inside the horny hoof?", "options": ["{}", "hoof", "bone", "{}"], "answer": "2", "image_path": "images/ai2d/136.jpeg"}
+{"question": "Which letter represents the Spurred flower?", "options": ["G", "H", "F", "E"], "answer": "3", "image_path": "images/ai2d/137.jpeg"}
+{"question": "In the diagram of the food web shown what will most directly be affected by the loss of the trees?", "options": ["horses", "cats", "nothing", "bears"], "answer": "0", "image_path": "images/ai2d/138.jpeg"}
+{"question": "In the food web diagram that is shown, which is the producer?", "options": ["deer", "horse", "grizzly bear", "trees and leaves"], "answer": "3", "image_path": "images/ai2d/139.jpeg"}
+{"question": "What is an example of a producer in this diagram?", "options": ["Mountain Lion", "Horse", "Plants", "Bear"], "answer": "2", "image_path": "images/ai2d/140.jpeg"}
+{"question": "What is the largest planet besides the sun?", "options": ["venus", "uranus", "Jupiter", "mars"], "answer": "2", "image_path": "images/ai2d/141.jpeg"}
+{"question": "What is the name of the planet closest to the sun.", "options": ["Mars", "Earth", "Mercury", "Neptune"], "answer": "2", "image_path": "images/ai2d/142.jpeg"}
+{"question": "Which planet is label C?", "options": ["Uranus", "Saturn", "Neptune", "Jupiter"], "answer": "0", "image_path": "images/ai2d/143.jpeg"}
+{"question": "What is in the center of the Nuclear Envelope?", "options": ["Cytoplasm", "The nucleus", "Golgi Body", "Centriole"], "answer": "1", "image_path": "images/ai2d/144.jpeg"}
+{"question": "What just inside of the Cell coat?", "options": ["Centriole", "Goulash", "Ribosome", "Plasma membrane"], "answer": "3", "image_path": "images/ai2d/145.jpeg"}
+{"question": "WHICH DESCRIBE ABOUT NORTH POLE?", "options": ["Earth's geomagnetic south pole.", "GEOGRAPHY QUESTION", "The Geographic North Pole or Terrestrial North Pole; the northernmost point on Earth, of latitude 90\u00b0.", "MAGNET"], "answer": "2", "image_path": "images/ai2d/146.jpeg"}
+{"question": "WHICH LABEL REPRESENTS SOUTH POLE?", "options": ["A&B", "B", "A", "C"], "answer": "1", "image_path": "images/ai2d/147.jpeg"}
+{"question": "What does the green arrow at the equator represent?", "options": ["best way to spin your globe", "water current directions at the equator", "air current directions at the equator", "direction of rotation of the earth"], "answer": "3", "image_path": "images/ai2d/148.jpeg"}
+{"question": "What does the letter A represent?", "options": ["Pacific Ocean", "Equator", "South Pole", "North Pole"], "answer": "3", "image_path": "images/ai2d/149.jpeg"}
+{"question": "Growth is best described as:", "options": ["The process of growing.", "The beginning of vegetation or growth from a seed or spore; the first development of germs, either animal or vegetable.", "seed", "Geology A stage in the development of streams or landscapes at which maximum development has been reached or at which the process of erosion is going on with maximum vigor. Maturity of a landscape continues throughout the period of maximum topographic differentiation or until about three fourths of the original mass is carried away by erosion."], "answer": "0", "image_path": "images/ai2d/150.jpeg"}
+{"question": "Letter C in the diagram represents which stage of development?", "options": ["Maturity", "Seed", "Growth", "Germination"], "answer": "3", "image_path": "images/ai2d/151.jpeg"}
+{"question": "Maturity is best represented by which letter in the diagram?", "options": ["B", "D", "A", "C"], "answer": "2", "image_path": "images/ai2d/152.jpeg"}
+{"question": "From the above food web diagram, spartina is", "options": ["producer", "secondary consumer", "decomposer", "consumer"], "answer": "0", "image_path": "images/ai2d/153.jpeg"}
+{"question": "From the above food web diagram, which species get directly affected if all plants dies", "options": ["none", "pardosa", "prokelisia", "tytthus"], "answer": "2", "image_path": "images/ai2d/154.jpeg"}
+{"question": "Prokelisia is the main food for _____?", "options": ["spartina", "tytthus", "both", "none"], "answer": "1", "image_path": "images/ai2d/155.jpeg"}
+{"question": "Which is the following is predator?", "options": ["Hogna", "Grammonota", "prokelisia", "Spartina"], "answer": "0", "image_path": "images/ai2d/156.jpeg"}
+{"question": "Which organism is at the top of the food chain?", "options": ["Hogna", "Pardosa", "Tytthus", "None of the above"], "answer": "0", "image_path": "images/ai2d/157.jpeg"}
+{"question": "Which organism is the primary producer?", "options": ["Pardosa", "Hogna", "Tytthus", "Spartina"], "answer": "3", "image_path": "images/ai2d/158.jpeg"}
+{"question": "which is the following primary consumer?", "options": ["prokelisia", "Pardosa", "Hogna", "Spartina"], "answer": "0", "image_path": "images/ai2d/159.jpeg"}
+{"question": "If the phytoplankton disappeared, who would need a new source of energy?", "options": ["Aquatic Insects", "Bluegill", "Bass", "Zooplankton"], "answer": "3", "image_path": "images/ai2d/160.jpeg"}
+{"question": "Imagine that sunlight was removed from the diagram below. What would be an immediate result?", "options": ["Humans increase fishing activity", "Bass migrate to another ecosystem", "Phytoplankton population decreases", "Zooplankton population increases"], "answer": "2", "image_path": "images/ai2d/161.jpeg"}
+{"question": "Using the diagram, identify the organism that provides energy to the bluegill.", "options": ["Zooplankton", "Aquatic insects", "Bass", "Humans"], "answer": "0", "image_path": "images/ai2d/162.jpeg"}
+{"question": "What does bass feed on?", "options": ["Rocks", "Leaves", "Sunlight", "Acquatic insects"], "answer": "3", "image_path": "images/ai2d/163.jpeg"}
+{"question": "What does bluegill feed on?", "options": ["Sunlight", "Zooplankton", "Water", "Plankton"], "answer": "1", "image_path": "images/ai2d/164.jpeg"}
+{"question": "What feeds on aquatic insects?", "options": ["bluegill", "humans", "bass", "phytoplankton"], "answer": "2", "image_path": "images/ai2d/165.jpeg"}
+{"question": "What feeds on bass?", "options": ["humans", "aquatic insects", "nutrients", "bluegill"], "answer": "0", "image_path": "images/ai2d/166.jpeg"}
+{"question": "A food web is shown. Lizard is a/an", "options": ["tertiary consumer", "secondary consumer", "primary consumer", "Quaternary consumer"], "answer": "1", "image_path": "images/ai2d/167.jpeg"}
+{"question": "According to the food web, what is the number of organisms that feed on ants?", "options": ["1", "4", "2", "3"], "answer": "0", "image_path": "images/ai2d/168.jpeg"}
+{"question": "According to the food web, what leads to increase in the population of ants?", "options": ["Increase in plants", "Decrease in plants", "Death of lizards", "none of the above"], "answer": "2", "image_path": "images/ai2d/169.jpeg"}
+{"question": "Base your answers on the food chain below and on your knowledge of science. Which among the below is a producer?", "options": ["Ant", "Poison dart", "Lizards", "Plants"], "answer": "3", "image_path": "images/ai2d/170.jpeg"}
+{"question": "From the above food web diagram, decrease in lizards would directly affect", "options": ["ants", "plants", "none", "frogs"], "answer": "0", "image_path": "images/ai2d/171.jpeg"}
+{"question": "From the above food web diagram, what would happen to ants if all the plants dies", "options": ["decrease", "remains the same", "increase", "NA"], "answer": "0", "image_path": "images/ai2d/172.jpeg"}
+{"question": "From the above food web diagram, which species depends on plants for food", "options": ["eagle", "dart frog", "none", "lizards"], "answer": "1", "image_path": "images/ai2d/173.jpeg"}
+{"question": "From the above food web diagram, which species provide energy for eagle", "options": ["insects", "lizard", "dart frog", "plants"], "answer": "2", "image_path": "images/ai2d/174.jpeg"}
+{"question": "In the diagram of the food web shown, what consumes the plats directly?", "options": ["lizard and spider", "can't tell", "ants and poison dart", "NA"], "answer": "2", "image_path": "images/ai2d/175.jpeg"}
+{"question": "In the diagram of the food web shown, what will be most directly impacted if the number of ant decrease?", "options": ["leimadopis epinephlos", "poison dart", "lizard", "goliath bird eating spider"], "answer": "2", "image_path": "images/ai2d/176.jpeg"}
+{"question": "The diagram below represents a food web. what is a food for frog?", "options": ["plant", "bird", "lizard", "ant"], "answer": "0", "image_path": "images/ai2d/177.jpeg"}
+{"question": "which organism would most likely have a decrease in its population if decrease the population of ant base of above diagram?", "options": ["plant", "human", "lizard", "snake"], "answer": "2", "image_path": "images/ai2d/178.jpeg"}
+{"question": "In the life cycle of a crane fly, which letter represents the leather jacket stage?", "options": ["D", "A", "B", "C"], "answer": "2", "image_path": "images/ai2d/179.jpeg"}
+{"question": "The diagram shows the life cycle of a crane fly. During which time frame does stage C occur?", "options": ["September-July", "Jan-March", "August-September", "July-September"], "answer": "3", "image_path": "images/ai2d/180.jpeg"}
+{"question": "What is D in the diagram?", "options": ["eggs", "leatherjacket", "pupa", "crane fly"], "answer": "0", "image_path": "images/ai2d/181.jpeg"}
+{"question": "What is E in the diagram?", "options": ["crane fly", "pupa", "leatherjacket", "eggs"], "answer": "0", "image_path": "images/ai2d/182.jpeg"}
+{"question": "The cactus is surrounded with these.", "options": ["Oxygen", "Leaves", "Stems", "Needle-like leaves"], "answer": "3", "image_path": "images/ai2d/183.jpeg"}
+{"question": "Which label represents leaves?", "options": ["A", "{}", "B", "{}"], "answer": "2", "image_path": "images/ai2d/184.jpeg"}
+{"question": "Which label represents stem?", "options": ["{}", "A", "{}", "B"], "answer": "1", "image_path": "images/ai2d/185.jpeg"}
+{"question": "What is at the bottom of the tulip bulb?", "options": ["Tunic", "Scales", "Flower Bud", "Roots"], "answer": "3", "image_path": "images/ai2d/186.jpeg"}
+{"question": "Which one of these is found inside the tulip bulb?", "options": ["Roots", "Tunic", "Basal Stem", "Flower Bud"], "answer": "3", "image_path": "images/ai2d/187.jpeg"}
+{"question": "Which region in the diagram represents the flower bud?", "options": ["E", "D", "B", "C"], "answer": "1", "image_path": "images/ai2d/188.jpeg"}
+{"question": "Which region in the diagram represents the roots?", "options": ["E", "C", "D", "B"], "answer": "1", "image_path": "images/ai2d/189.jpeg"}
+{"question": "Look at the diagram what is the cycle?", "options": ["Beans", "Bee", "Mosquito", "Plant"], "answer": "2", "image_path": "images/ai2d/190.jpeg"}
+{"question": "What stage of development does a mosquito go through after the larval stage", "options": ["egg stage", "pupal stage", "dinner stage", "adult stage"], "answer": "1", "image_path": "images/ai2d/191.jpeg"}
+{"question": "What stage of development does a mosuito go through after the egg stage?", "options": ["lunch stage", "pupal stage", "adult stage", "Larval stage"], "answer": "3", "image_path": "images/ai2d/192.jpeg"}
+{"question": "What term best describes the mosquito that is represented by D?", "options": ["larval stage", "egg stage", "pupal stage", "adult stage"], "answer": "0", "image_path": "images/ai2d/193.jpeg"}
+{"question": "Which stage in the given diagram represents the pupal stage?", "options": ["B", "D", "C", "A"], "answer": "3", "image_path": "images/ai2d/194.jpeg"}
+{"question": "Which Diagram Shows spring Here ?", "options": ["B", "C", "A", "D"], "answer": "1", "image_path": "images/ai2d/195.jpeg"}
+{"question": "From the above food web diagram, which species are most predators", "options": ["secondary consumer", "primary consumer", "tertiary consumer", "decomposer"], "answer": "2", "image_path": "images/ai2d/196.jpeg"}
+{"question": "How many organisms in this diagram are producers?", "options": ["6", "5", "2", "4"], "answer": "3", "image_path": "images/ai2d/197.jpeg"}
+{"question": "How many producers are there in this food web?", "options": ["3", "4", "2", "1"], "answer": "1", "image_path": "images/ai2d/198.jpeg"}
+{"question": "What gets energy from a producer?", "options": ["secondary consumer", "tertiary consumer", "decomposer", "primary consumer"], "answer": "3", "image_path": "images/ai2d/199.jpeg"}
+{"question": "What gets energy from the sun?", "options": ["producer", "decomposer", "secondary consumer", "tertiary consumer"], "answer": "0", "image_path": "images/ai2d/200.jpeg"}
+{"question": "What is the name for the thing at the top of the food chain?", "options": ["decomposer", "tertairy consumer", "secondary consumer", "producer"], "answer": "1", "image_path": "images/ai2d/201.jpeg"}
+{"question": "Which is the main source of energy?", "options": ["Producer", "Primary consumer", "Secondary consumer", "Sun"], "answer": "3", "image_path": "images/ai2d/202.jpeg"}
+{"question": "In the diagram shown, which is the producer?", "options": ["rabbit", "meadow grasses", "deer", "vole"], "answer": "1", "image_path": "images/ai2d/203.jpeg"}
+{"question": "In the diagram shown, which organism consumes deer as a food source?", "options": ["hawk", "rabbit", "vole", "coyote"], "answer": "3", "image_path": "images/ai2d/204.jpeg"}
+{"question": "In the diagram shown, which organism consumes deer for a food energy source?", "options": ["rabbit", "coyote", "vole", "hawk"], "answer": "1", "image_path": "images/ai2d/205.jpeg"}
+{"question": "Refer the diagram and choose the right answer accordingly. What will happen to the Coyote Population if the Rabbits are extinct?", "options": ["Deer Population will increase", "Population will increase", "Population will decrease", "Population will remain the same"], "answer": "2", "image_path": "images/ai2d/206.jpeg"}
+{"question": "Refer the diagram and choose the right answer accordingly. Which among the below is a carnivore?", "options": ["Rabbit", "Vole", "Deer", "Coyote"], "answer": "3", "image_path": "images/ai2d/207.jpeg"}
+{"question": "What do coyotes eat?", "options": ["grass", "vole", "rabbit", "none of the above"], "answer": "2", "image_path": "images/ai2d/208.jpeg"}
+{"question": "What feeds on the deer?", "options": ["coyote", "meadow grasses", "rabbit", "vole"], "answer": "0", "image_path": "images/ai2d/209.jpeg"}
+{"question": "What is a producer?", "options": ["meadow grasses", "rabbit", "vole", "hawk"], "answer": "0", "image_path": "images/ai2d/210.jpeg"}
+{"question": "What is the producer shown here?", "options": ["rat", "meadow grasses", "coyote", "none of the above"], "answer": "1", "image_path": "images/ai2d/211.jpeg"}
+{"question": "Which of the following gets energy from plants?", "options": ["Hawk", "Coyote", "Rabbit", "Meadow grass"], "answer": "2", "image_path": "images/ai2d/212.jpeg"}
+{"question": "Which of the following is a secondary consumer?", "options": ["Vole", "Rabbit", "Deer", "Coyote"], "answer": "3", "image_path": "images/ai2d/213.jpeg"}
+{"question": "the outermost layer of earth is known as:", "options": ["Outer core", "Crust", "Mantle", "Inner core"], "answer": "1", "image_path": "images/ai2d/214.jpeg"}
+{"question": "At this time of year, where are the sun's rays generally the warmest?", "options": ["At the tropic of Cancer", "At the Equator", "Below the antarctic circle", "Above the arctic circle"], "answer": "0", "image_path": "images/ai2d/215.jpeg"}
+{"question": "The letter B in the diagram represents?", "options": ["The Tropic of Capricorn", "The Equator", "The Antarctic Circle", "The Tropic of Cancer"], "answer": "1", "image_path": "images/ai2d/216.jpeg"}
+{"question": "What is represented by letter B?", "options": ["Tropic of Capricorn", "Antarctic Circle", "Equator", "Tropic of Cancer"], "answer": "2", "image_path": "images/ai2d/217.jpeg"}
+{"question": "Where is the Arctic Circle on the diagram?", "options": ["C", "I", "E", "G"], "answer": "0", "image_path": "images/ai2d/218.jpeg"}
+{"question": "Letter I refers to which organ?", "options": ["pancreas", "gall bladder", "small intestine", "liver"], "answer": "0", "image_path": "images/ai2d/219.jpeg"}
+{"question": "What is the bottom-most opening shown in the diagram?", "options": ["pancreas", "gallbladder", "anus", "none of the above"], "answer": "2", "image_path": "images/ai2d/220.jpeg"}
+{"question": "What is the opening on the face?", "options": ["mouth", "ear", "none of the above", "anus"], "answer": "0", "image_path": "images/ai2d/221.jpeg"}
+{"question": "Which organ produces bile?", "options": ["liver", "large intestine", "stomach", "gallbladder"], "answer": "0", "image_path": "images/ai2d/222.jpeg"}
+{"question": "In which label on the diagram is the grasshopper the smallest?", "options": ["1", "5", "4", "6"], "answer": "0", "image_path": "images/ai2d/223.jpeg"}
+{"question": "What is the body part labeled D?", "options": ["Shield", "Pronotum", "Antennae", "Wing"], "answer": "1", "image_path": "images/ai2d/224.jpeg"}
+{"question": "What organism does this diagram portray?", "options": ["Human", "Ladybug", "Grasshopper", "Wolf"], "answer": "2", "image_path": "images/ai2d/225.jpeg"}
+{"question": "Base your answers on the food web below and on your knowledge of science. Identify the producer in this food web ?", "options": ["Earthwarm", "Cattails Plants", "Shrew", "Mosquito"], "answer": "1", "image_path": "images/ai2d/226.jpeg"}
+{"question": "Based on the given food web diagram, which of these animals act as a prey only?", "options": ["earthworm", "leopard frog", "great egret", "blue gill fish"], "answer": "0", "image_path": "images/ai2d/227.jpeg"}
+{"question": "Based on the given food web diagram, which of these following statements are true?", "options": ["shrew feeds on cattail plants.", "great egret feeds on mosquito.", "blue gill fish acts as a predator only.", "leopard frog preys on mosquito."], "answer": "3", "image_path": "images/ai2d/228.jpeg"}
+{"question": "From the above food web diagram, if all the grasshopper dies then population of plants will", "options": ["increase", "decrease", "remains the same", "none"], "answer": "0", "image_path": "images/ai2d/229.jpeg"}
+{"question": "From the above food web diagram, name the species that eat plants", "options": ["snake", "earthworm", "egret", "none"], "answer": "1", "image_path": "images/ai2d/230.jpeg"}
+{"question": "In the diagram of the food web as shown, if the shrew population decreases, the earthworm population will most likely?", "options": ["decrease", "stay same", "can't tell", "increase"], "answer": "3", "image_path": "images/ai2d/231.jpeg"}
+{"question": "In the diagram of the food web shown, the shrew consumes which of these directly?", "options": ["great egret", "mosquito", "earthworm", "leopard frog"], "answer": "2", "image_path": "images/ai2d/232.jpeg"}
+{"question": "Name the producer organism in the diagram below.", "options": ["Earthworm", "Cattails plant", "Great egret", "Shrew"], "answer": "1", "image_path": "images/ai2d/233.jpeg"}
+{"question": "Select the organism below which is both carnivorous as well as food for other carnivores.", "options": ["Earthworm", "Spotted salamander", "Mosquito", "Great egret"], "answer": "1", "image_path": "images/ai2d/234.jpeg"}
+{"question": "What feeds on leopard frogs?", "options": ["spotted salamander", "mosquito", "shrew", "earthworm"], "answer": "0", "image_path": "images/ai2d/235.jpeg"}
+{"question": "Which organism supplies the energy for the food web shown?", "options": ["Shrew", "Earthwarm", "Mosquito", "Cattails Plants"], "answer": "3", "image_path": "images/ai2d/236.jpeg"}
+{"question": "what is a producer?", "options": ["cattail plant", "shrew", "earthworm", "egret"], "answer": "0", "image_path": "images/ai2d/237.jpeg"}
+{"question": "What is the fifth planet from the sun, the largest and most massive in the solar system?", "options": ["Saturn", "Mars", "Earth", "Jupiter"], "answer": "3", "image_path": "images/ai2d/238.jpeg"}
+{"question": "What is the object labeled E?", "options": ["Earth", "Uranus", "Mars", "Venus"], "answer": "3", "image_path": "images/ai2d/239.jpeg"}
+{"question": "What is the second farthest object from the center? (Orange in color.)", "options": ["Saturn", "Uranus", "Jupiter", "Mars"], "answer": "2", "image_path": "images/ai2d/240.jpeg"}
+{"question": "What star is the basis of the solar system that sustains life on Earth, being the source of heat and light?", "options": ["Venus", "Saturn", "sun", "moon"], "answer": "2", "image_path": "images/ai2d/241.jpeg"}
+{"question": "From the above food web diagram, which species need to find other energy source after grass", "options": ["cricket", "none", "snake", "bush"], "answer": "0", "image_path": "images/ai2d/242.jpeg"}
+{"question": "From the food web shown in the diagram, which organism is the primary consumer?", "options": ["Cricket", "Wedge tailed eagle", "Red bellied black snake", "King brown snake"], "answer": "0", "image_path": "images/ai2d/243.jpeg"}
+{"question": "From the food web shown in the diagram, which organism is the producer?", "options": ["Eagle", "Human", "Cane grass", "Cricket"], "answer": "2", "image_path": "images/ai2d/244.jpeg"}
+{"question": "If the producer in this ecosystem disappeared, the organism directly affected would be", "options": ["Eagles", "Humans", "Snakes", "Crickets"], "answer": "3", "image_path": "images/ai2d/245.jpeg"}
+{"question": "Imagine that crickets died out in the ecosystem shown above. Predict which of these outcomes would be most likely to occur:", "options": ["King brown snakes increase in population", "Humans leave the ecosystem", "Frilled neck lizard population goes down", "Pollution increases"], "answer": "2", "image_path": "images/ai2d/246.jpeg"}
+{"question": "Refer the diagram and choose the option which is a carnivore?", "options": ["Cricket", "Cane grass", "Salt bush", "Wedge tailed eagle"], "answer": "3", "image_path": "images/ai2d/247.jpeg"}
+{"question": "What feeds on crickets?", "options": ["snake", "lizards", "eagle", "salt bush"], "answer": "1", "image_path": "images/ai2d/248.jpeg"}
+{"question": "What is a predator?", "options": ["salt bush", "grass", "lizard", "cricket"], "answer": "2", "image_path": "images/ai2d/249.jpeg"}
+{"question": "What would happen if the cricket population decreased?", "options": ["lizards would decrease", "eagle would increase", "king brown snake would increast", "salt bush would decrease"], "answer": "0", "image_path": "images/ai2d/250.jpeg"}
+{"question": "Which among the below causes pollution?", "options": ["Cane grass", "Cricket", "Humans", "Salt bush"], "answer": "2", "image_path": "images/ai2d/251.jpeg"}
+{"question": "In the diagram below, how many days does the Adult live?", "options": ["5 days", "3-4 weeks", "None of the above", "7 days"], "answer": "1", "image_path": "images/ai2d/252.jpeg"}
+{"question": "In the diagram below, how many days does the Nymph stage last?", "options": ["5 days", "None of the above", "7-10 days", "3-4 weeks"], "answer": "2", "image_path": "images/ai2d/253.jpeg"}
+{"question": "Diagram letter C refers to what part of the fish?", "options": ["Pelvics", "Anal", "Caudal", "Pectoral"], "answer": "2", "image_path": "images/ai2d/254.jpeg"}
+{"question": "What organism is shown in the diagram above?", "options": ["Dog", "Rabbit", "Fish", "Cat"], "answer": "2", "image_path": "images/ai2d/255.jpeg"}
+{"question": "Which label applies to the Soft Dorsal of the fish?", "options": ["F", "C", "K", "A"], "answer": "0", "image_path": "images/ai2d/256.jpeg"}
+{"question": "How many layers does the earth have?", "options": ["2", "5", "3", "4"], "answer": "3", "image_path": "images/ai2d/257.jpeg"}
+{"question": "What is the outermost layer of the earth called?", "options": ["inner core", "mantle", "outer core", "crust"], "answer": "3", "image_path": "images/ai2d/258.jpeg"}
+{"question": "What is the region that represents the crust?", "options": ["d", "b", "c", "a"], "answer": "1", "image_path": "images/ai2d/259.jpeg"}
+{"question": "What is the region that represents the mantle?", "options": ["a", "c", "d", "b"], "answer": "1", "image_path": "images/ai2d/260.jpeg"}
+{"question": "The above diagram shows the mouth parts of which organism?", "options": ["Dog", "Dragon", "Cat", "Cockroach"], "answer": "3", "image_path": "images/ai2d/261.jpeg"}
+{"question": "The letter F is point at what part of the cockroach's mouth parts?", "options": ["The mentum", "The paraglossa", "The labial palp", "The submentum"], "answer": "1", "image_path": "images/ai2d/262.jpeg"}
+{"question": "The letter I is pointing at what part of the cockroach?", "options": ["The glossa", "The mentum", "The paraglossa", "The submentum"], "answer": "3", "image_path": "images/ai2d/263.jpeg"}
+{"question": "In the food web diagram that is shown, which is the producer?", "options": ["grasshopper", "frog", "snake", "grass"], "answer": "3", "image_path": "images/ai2d/264.jpeg"}
+{"question": "In the food web diagram that is shown, which organism consumes snakes as a primary food?", "options": ["grass", "grasshopper", "frog", "bird"], "answer": "3", "image_path": "images/ai2d/265.jpeg"}
+{"question": "What is at the highest of the food chain in this diagram?", "options": ["frog", "snake", "grasshopper", "hawk"], "answer": "3", "image_path": "images/ai2d/266.jpeg"}
+{"question": "What is at the lowest of the food chain in this diagram?", "options": ["snake", "grass", "hawk", "frog"], "answer": "1", "image_path": "images/ai2d/267.jpeg"}
+{"question": "Who is the producer in the food web shown?", "options": ["Hawk", "Frog", "Grass", "None of the above"], "answer": "2", "image_path": "images/ai2d/268.jpeg"}
+{"question": "Who is the top predator in the food web shown?", "options": ["Hawk", "Frog", "Snake", "None of the above"], "answer": "0", "image_path": "images/ai2d/269.jpeg"}
+{"question": "What is the oxygen represented by in the diagram?", "options": ["D", "C", "B", "none of the above"], "answer": "1", "image_path": "images/ai2d/270.jpeg"}
+{"question": "What is the sunlight represented by in the diagram?", "options": ["none of the above", "B", "A", "D"], "answer": "3", "image_path": "images/ai2d/271.jpeg"}
+{"question": "What is uptaked into the plant at stage A?", "options": ["sunlight", "water", "oxygen", "carbon dioxide"], "answer": "1", "image_path": "images/ai2d/272.jpeg"}
+{"question": "which of the label show maximum leaf", "options": ["j", "k", "h", "g"], "answer": "1", "image_path": "images/ai2d/273.jpeg"}
+{"question": "which of the label show round shape leaf", "options": ["a", "b", "h", "d"], "answer": "2", "image_path": "images/ai2d/274.jpeg"}
+{"question": "which is nearest planet of sun?", "options": ["Jupiter", "Saturn", "mercury", "Venus"], "answer": "2", "image_path": "images/ai2d/275.jpeg"}
+{"question": "which is the Center of planet?", "options": ["Mercury", "Jupiter", "Sun", "Venus"], "answer": "2", "image_path": "images/ai2d/276.jpeg"}
+{"question": "which label defines saturn", "options": ["b", "g", "c", "a"], "answer": "1", "image_path": "images/ai2d/277.jpeg"}
+{"question": "What is depicted at stage E?", "options": ["egg", "planula", "adult", "immature medusa"], "answer": "1", "image_path": "images/ai2d/278.jpeg"}
+{"question": "What is the first stage in the life cycle of a jellfish (Scyphozoa)?", "options": ["egg", "immature medusa", "polyp with buds", "planula"], "answer": "0", "image_path": "images/ai2d/279.jpeg"}
+{"question": "IN THE ABOVE DIAGRAM DESCRIBE ABOUT VACUOLE?", "options": ["Biology A large, membrane-bound, usually spherical protoplasmic structure within a living cell, containing the cell's hereditary material and controlling its metabolism, growth, and reproduction.", "A complex of nucleic acids and proteins, primarily histones, in the cell nucleus that stains readily with basic dyes and condenses to form chromosomes during cell division.", "A spherical or elongated organelle in the cytoplasm of nearly all eukaryotic cells, containing genetic material and many enzymes important for cell metabolism, including those responsible for the conversion of food to usable energy. Also called chondriosome.", "A small cavity in the cytoplasm of a cell, bound by a single membrane and containing water, food, or metabolic waste."], "answer": "3", "image_path": "images/ai2d/280.jpeg"}
+{"question": "What layer is between layer L and layer C?", "options": ["PLASMA MEMBRANE", "MIDDLE LAMELLA", "RIBOSOME", "MITOCHONDRION"], "answer": "0", "image_path": "images/ai2d/281.jpeg"}
+{"question": "What organism is shown in the diagram above?", "options": ["Plant Cell", "Volcano", "None of the above", "Human"], "answer": "0", "image_path": "images/ai2d/282.jpeg"}
+{"question": "What is the line down the leaflet called?", "options": ["stem", "leaf", "midrib", "branch"], "answer": "2", "image_path": "images/ai2d/283.jpeg"}
+{"question": "How many stager are in the life cycle of a grasshopper?", "options": ["4", "1", "3", "2"], "answer": "2", "image_path": "images/ai2d/284.jpeg"}
+{"question": "What feature does an adult grasshopper have that a nymph does not?", "options": ["Head", "Egg", "Wings", "Legs"], "answer": "2", "image_path": "images/ai2d/285.jpeg"}
+{"question": "What is shown at F in the diagram?", "options": ["egg", "nymph", "wings", "none of the above"], "answer": "2", "image_path": "images/ai2d/286.jpeg"}
+{"question": "What is the term for the second stage?", "options": ["nymph", "larva", "egg", "adult"], "answer": "0", "image_path": "images/ai2d/287.jpeg"}
+{"question": "What part does F represent?", "options": ["eyes", "legs", "antennae", "wings"], "answer": "3", "image_path": "images/ai2d/288.jpeg"}
+{"question": "What stage is labeled C in the diagram?", "options": ["none of the above", "egg", "adult", "nymph"], "answer": "3", "image_path": "images/ai2d/289.jpeg"}
+{"question": "At which label does the egg hatch into larva?", "options": ["B", "A", "D", "C"], "answer": "2", "image_path": "images/ai2d/290.jpeg"}
+{"question": "At which stage is the animal fully grown?", "options": ["B", "D", "C", "A"], "answer": "2", "image_path": "images/ai2d/291.jpeg"}
+{"question": "Which stage follows the egg stage of development in a beetle's life cycle?", "options": ["Nymph", "Larva", "Adule", "Pupa"], "answer": "1", "image_path": "images/ai2d/292.jpeg"}
+{"question": "Letter G shows which line?", "options": ["Equator", "Antarctic Circle", "Arctic Circle", "Tropic of Cancer"], "answer": "1", "image_path": "images/ai2d/293.jpeg"}
+{"question": "Line C depicts the Tropic of _______?", "options": ["Scorpio", "Equator", "Cancer", "Capricorn"], "answer": "2", "image_path": "images/ai2d/294.jpeg"}
+{"question": "The Tropic of Cancer is which letter?", "options": ["G", "B", "C", "E"], "answer": "2", "image_path": "images/ai2d/295.jpeg"}
+{"question": "What is being shown by the lines labeled H?", "options": ["Equator lines", "Radio waves", "Seasons", "Sun's Rays"], "answer": "3", "image_path": "images/ai2d/296.jpeg"}
+{"question": "Which circle divides the earth into two hemispheres?", "options": ["Antarctic circle.", "Arctic circle.", "Equator.", "Tropic of cancer."], "answer": "2", "image_path": "images/ai2d/297.jpeg"}
+{"question": "Choose the option that is a producer?", "options": ["High level predators", "Predatory mites", "Predatory Nematodes", "Shoots"], "answer": "3", "image_path": "images/ai2d/298.jpeg"}
+{"question": "From the above food web diagram, if all the algae dies then population of bacteria will", "options": ["increase", "decrease", "remains the same", "NA"], "answer": "1", "image_path": "images/ai2d/299.jpeg"}
+{"question": "In the diagram of the food web shown, the plant feeding nematodes get their energy source from?", "options": ["bacteria", "shoots and roots", "dead material", "algae"], "answer": "1", "image_path": "images/ai2d/300.jpeg"}
+{"question": "In the diagram of the food web shown, what are the predatory nematodes consumed by?", "options": ["shoots and roots", "dead material", "predatory mites", "ciliates"], "answer": "2", "image_path": "images/ai2d/301.jpeg"}
+{"question": "What does a high-level predator eat?", "options": ["p-bacteria", "fungal-feeding nematode", "organic matter", "dead material"], "answer": "1", "image_path": "images/ai2d/302.jpeg"}
+{"question": "What feeds on organic matter?", "options": ["algae", "bacteria", "high-level predator", "nematode"], "answer": "1", "image_path": "images/ai2d/303.jpeg"}
+{"question": "What feeds on plant-feeding nematodes?", "options": ["amoebae", "predatory mites", "organic matter", "flagellets"], "answer": "1", "image_path": "images/ai2d/304.jpeg"}
+{"question": "What is an herbivore?", "options": ["plant-feeding nematode", "high-level predator", "predatory nematode", "predatory mite"], "answer": "0", "image_path": "images/ai2d/305.jpeg"}
+{"question": "What is at the top of the food web?", "options": ["high level predator", "flagellate", "bacteria", "dead material"], "answer": "0", "image_path": "images/ai2d/306.jpeg"}
+{"question": "Which among the below helps in creating Organic matter?", "options": ["P-Bacteria", "High level predators", "Predatory mites", "Amoebae"], "answer": "0", "image_path": "images/ai2d/307.jpeg"}
+{"question": "How many changes are shown in the diagram?", "options": ["2", "4", "1", "7"], "answer": "1", "image_path": "images/ai2d/308.jpeg"}
